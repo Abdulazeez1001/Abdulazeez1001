@@ -1,83 +1,115 @@
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0D4F3C,50:1A7A5E,100:0A3D2E&height=250&section=header&text=Abdul%20Azeez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Clinical%20Systems%20%E2%80%A2%20Predictive%20Health%20%E2%80%A2%20Scalable%20Care%20Infrastructure&descSize=18&descAlignY=62&descColor=A8D5C2)](https://github.com/Abdulazeez1001)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0B3D2E,50:145C46,100:0A2F24&height=260&section=header&text=Abdul%20Azeez&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Healthcare%20Systems%20Builder%20%E2%80%A2%20Clinical%20AI%20%E2%80%A2%20Digital%20Health&descSize=19&descAlignY=60&descColor=A8D5C2)](https://github.com/Abdulazeez1001)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=1A7A5E&center=true&vCenter=true&repeat=true&width=700&height=45&lines=MS+Health+Informatics+%40+DePaul+University+🎓;Clinical+Background+%E2%86%92+Systems+Engineering;Building+AI+that+Improves+Care+Delivery+🏥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=1A7A5E&center=true&vCenter=true&repeat=true&width=720&height=45&lines=MS+Health+Informatics+%40+DePaul+University;Clinical+Background+%E2%86%92+Systems+Engineering;Building+Scalable+AI+for+Care+Delivery)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D4F3C?style=for-the-badge&logo=linkedin&logoColor=A8D5C2)](https://linkedin.com/in/abdulazeez3)
-[![Email](https://img.shields.io/badge/Email-0D4F3C?style=for-the-badge&logo=gmail&logoColor=A8D5C2)](mailto:aazeez9698@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D4F3C?style=for-the-badge&logo=googlechrome&logoColor=A8D5C2)](https://portfolio-showcase--aazeez9698.replit.app)
-[![Chicago](https://img.shields.io/badge/📍_Chicago,_IL-0D4F3C?style=for-the-badge&logoColor=A8D5C2)](https://github.com/Abdulazeez1001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=A8D5C2)](https://linkedin.com/in/abdulazeez3)
+[![Email](https://img.shields.io/badge/Email-0B3D2E?style=for-the-badge&logo=gmail&logoColor=A8D5C2)](mailto:aazeez9698@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B3D2E?style=for-the-badge&logo=googlechrome&logoColor=A8D5C2)](https://portfolio-showcase--aazeez9698.replit.app)
+[![Chicago](https://img.shields.io/badge/Chicago,_IL-0B3D2E?style=for-the-badge&logoColor=A8D5C2)](https://github.com/Abdulazeez1001)
 
 </div>
 
 ---
 
-## 👋 Who I Am
+## 👋 About
 
-I began my career inside a clinic, where I saw firsthand how fragmented systems and inefficient workflows impact both providers and patients.
+My foundation is clinical.
 
-That experience shaped how I approach technology: many of healthcare’s biggest challenges aren’t clinical — they’re structural.
+Before building models, I worked inside a healthcare setting where I saw how fragmented systems, delayed data, and operational inefficiencies directly shape patient outcomes.
 
-Today, as a Health Informatics graduate student at DePaul, I build scalable solutions at the intersection of clinical insight and machine learning — focused on improving efficiency, predictability, and real-world care delivery.
+That perspective defines how I build today.
 
-> 💬 *I build systems that could realistically live inside a clinical workflow — not just inside a notebook.*
+I design scalable, data-driven systems at the intersection of clinical insight and machine learning — focused on improving care delivery, reducing preventable costs, and translating data into operational decisions.
 
----
-
-## 🧭 Focus Areas
-
-- Predictive modeling for preventable care events  
-- Operational AI for healthcare workflows  
-- Mobile-first clinical decision support tools  
-- Interpretable machine learning in patient-facing systems  
+> I don’t build for demos. I build for deployment.
 
 ---
 
-## 🧰 Tech Stack
+## 🎯 What I Focus On
 
-### 📱 Mobile & Android
-![Kotlin](https://img.shields.io/badge/Kotlin-0D4F3C?style=for-the-badge&logo=kotlin&logoColor=A8D5C2)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0D4F3C?style=for-the-badge&logo=android&logoColor=A8D5C2)
-![Android](https://img.shields.io/badge/Android-0D4F3C?style=for-the-badge&logo=android&logoColor=A8D5C2)
-
-### 🤖 Data Science & ML
-![Python](https://img.shields.io/badge/Python-0D4F3C?style=for-the-badge&logo=python&logoColor=A8D5C2)
-![R](https://img.shields.io/badge/R-0D4F3C?style=for-the-badge&logo=r&logoColor=A8D5C2)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D4F3C?style=for-the-badge&logo=scikit-learn&logoColor=A8D5C2)
-![Random Forest](https://img.shields.io/badge/Random_Forest-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
-![ARIMA](https://img.shields.io/badge/ARIMA-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
-
-### 🏥 Health Systems
-![HIPAA](https://img.shields.io/badge/HIPAA-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
-![mHealth](https://img.shields.io/badge/mHealth-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
-![Clinical Informatics](https://img.shields.io/badge/Clinical_Informatics-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
-![Public Health](https://img.shields.io/badge/Public_Health-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
+- Predictive modeling for preventable clinical events  
+- Operational AI that improves healthcare workflows  
+- Mobile-first clinical decision support systems  
+- Interpretable ML for real-world healthcare settings  
+- Translating analytics into deployable infrastructure  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-| | |
-|---|---|
-| **🫁 PulmoGuard** — *Early COPD Exacerbation Detection* <br><br> Android-based mHealth platform predicting COPD exacerbations 3–7 days in advance. Custom FEV₁ gauge built in Jetpack Compose Canvas. On-device K-Means risk stratification across 4 severity levels. <br><br> **Impact:** Targets $10K–15K preventable hospitalization events. | **🧠 ADHD Risk Detection** — *Interpretable Behavioral ML* <br><br> 91% accurate Decision Tree classifier across four ADHD profiles (6,500 behavioral records). Identified and resolved data leakage. Proposed CDC HI-5 aligned screening framework. <br><br> **Impact:** Balanced sensitivity + specificity across all classes. |
-| **💊 Opioid Crisis Analysis** — *Public Health Forecasting* <br><br> Random Forest (R² = 0.98) modeling U.S. county-level mortality. Geospatial hotspot mapping + ARIMA(2,1,2) forecasting 8-year trends. <br><br> **Impact:** Identifies high-risk state clusters for targeted intervention. | **🦷 ChairSide AI** — *Clinical Documentation Automation* <br><br> AI-powered dental documentation system (voice-to-SOAP). Deployed live with full-stack integration. <br><br> **Impact:** Demonstrates real-time, production-ready clinical AI workflow. |
+### 🫁 PulmoGuard — Early COPD Risk Detection  
+Android-based mHealth platform predicting COPD exacerbations 3–7 days in advance.  
+
+- Custom FEV₁ visualization built with Jetpack Compose Canvas  
+- On-device K-Means risk stratification across four severity levels  
+- Designed for integration into pulmonary rehabilitation workflows  
+
+**Impact:** Targets $10K–15K preventable hospitalization events.
+
+---
+
+### 🦷 ChairSide AI — Clinical Documentation Automation  
+AI-powered dental documentation assistant converting voice input into structured SOAP notes.
+
+- Full-stack deployment with database integration  
+- Designed to reduce documentation burden in clinical practice  
+- Built and shipped during DePaul Hackathon  
+
+**Impact:** Demonstrates real-time, production-ready clinical AI workflow.
+
+---
+
+### 🧠 ADHD Risk Detection — Interpretable ML  
+Decision Tree classifier (91% accuracy) across four ADHD profiles using 6,500 behavioral records.
+
+- Identified and resolved data leakage  
+- Balanced sensitivity and specificity across all classes  
+- Proposed CDC HI-5 aligned screening framework  
+
+**Impact:** Early behavioral risk stratification framework for school-based screening.
+
+---
+
+### 💊 Opioid Mortality Forecasting — Public Health ML  
+County-level mortality modeling across the U.S.
+
+- Random Forest (R² = 0.98)  
+- Geospatial hotspot mapping  
+- ARIMA(2,1,2) long-term mortality forecasting  
+
+**Impact:** Identifies high-risk regional clusters for targeted intervention strategies.
+
+---
+
+## 🧰 Technical Toolkit
+
+### Mobile Development
+Kotlin • Jetpack Compose • Android
+
+### Data Science & Machine Learning
+Python • R • Scikit-Learn • Random Forest • ARIMA • K-Means
+
+### Health Systems & Informatics
+HIPAA • mHealth • Clinical Informatics • Public Health Analytics
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Timeline |
-|--------|-------------|----------|
-| 🎓 MS Health Informatics | DePaul University, Chicago | 2024–2026 |
-| 🦷 Bachelor of Dental Surgery | Clinical Training & Patient Care | — |
+**MS Health Informatics**  
+DePaul University — Chicago (2024–2026)
+
+**Bachelor of Dental Surgery (BDS)**  
+Clinical Training • Patient Care • Practice Operations
 
 ---
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0A3D2E,50:1A7A5E,100:0D4F3C&height=120&section=footer)](https://github.com/Abdulazeez1001)
+[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:0A2F24,50:145C46,100:0B3D2E&height=120&section=footer)](https://github.com/Abdulazeez1001)
 
 </div>
