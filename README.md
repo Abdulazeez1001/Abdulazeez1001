@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:B8D9F0,100:FFFFFF&height=250&section=header&text=Abdul%20Azeez&fontSize=52&fontColor=1B4F72&animation=fadeIn&fontAlignY=40&desc=Health%20Informatics%20%E2%80%A2%20mHealth%20%E2%80%A2%20AI%20in%20Healthcare&descSize=18&descAlignY=62&descColor=2471A3)](https://github.com/Abdulazeez1001)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:87CEEB,50:B8D9F0,100:FFFFFF&height=250&section=header&text=Abdul%20Azeez&fontSize=52&fontColor=1B4F72&animation=fadeIn&fontAlignY=40&desc=Health%20Informatics%20%E2%80%A2%20mHealth%20%E2%80%A2%20AI%20in%20Healthcare&descSize=18&descAlignY=62&descColor=2471A3)](https://github.com/Abdulazeez1001)
 
 <div align="center">
 
@@ -68,6 +68,6 @@ I'm a health informatics graduate student with a clinical background in dentistr
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:B8D9F0,100:87CEEB&height=120&section=footer)](https://github.com/Abdulazeez1001)
+[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:FFFFFF,50:B8D9F0,100:87CEEB&height=120&section=footer)](https://github.com/Abdulazeez1001)
 
 </div>
