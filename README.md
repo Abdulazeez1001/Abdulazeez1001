@@ -17,9 +17,9 @@
 
 ### 👋 Who I Am
 
-I'm a health informatics graduate student with a clinical background in dentistry — which means I think about technology from both the patient's chair and the data pipeline. My work sits at the crossroads of **machine learning**, **mobile health**, and **public health informatics**.
+I began my career inside a clinic, where I saw firsthand how fragmented systems and inefficient workflows impact both providers and patients. That experience made one thing clear: many of healthcare’s biggest problems aren’t clinical — they’re structural.
+Today, as a Health Informatics graduate student at DePaul, I build scalable solutions at the intersection of clinical insight and machine learning — designed to make healthcare more efficient, predictive, and aligned.
 
-> 💬 *"I don't just build models. I build tools that could end up in a clinician's hands."*
 
 ---
 
@@ -61,8 +61,8 @@ I'm a health informatics graduate student with a clinical background in dentistr
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| 🎓 MS Health Informatics *(in progress)* | DePaul University, Chicago | 2024–2026 |
-| 🦷 Bachelor of Dental Surgery (BDS) | Clinical training · Patient care · Administration | — |
+| 🎓 MS Health Informatics *(in progress)* | DePaul University, Chicago | Present |
+| 🦷 Bachelor of Dental Surgery (BDS) | Clinical training · Patient care · Administration | July 2023 |
 
 ---
 
