@@ -13,12 +13,16 @@
 </div>
 
 ---
-
 ### 👋 Who I Am
 
-I'm a health informatics graduate student with a clinical background in dentistry — which means I think about technology from both the patient's chair and the data pipeline. My work sits at the crossroads of **machine learning**, **mobile health**, and **public health informatics**.
+- MS Health Informatics @ DePaul University  
+- Clinical foundation in Dentistry
+- Translating clinical complexity into scalable AI systems
+- Building infrastructure that improves real-world care delivery
+ 
+My perspective is shaped by working inside care delivery, where fragmented systems and delayed data directly affect outcomes.  
+I design and propose technology that integrates into real clinical workflows and translates analytics into action.
 
-> 💬 *"I don't just build models. I build tools that could end up in a clinician's hands."*
 
 ---
 
