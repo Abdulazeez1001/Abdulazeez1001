@@ -7,8 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D4F3C?style=for-the-badge&logo=linkedin&logoColor=A8D5C2)](https://linkedin.com/in/abdulazeez3)
-[![Email](https://img.shields.io/badge/Email-0D4F3C?style=for-the-badge&logo=gmail&logoColor=A8D5C2)](mailto:aazeez9698@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D4F3C?style=for-the-badge&logo=googlechrome&logoColor=A8D5C2)](https://portfolio-showcase--aazeez9698.replit.app)
+[![Email](https://img.shields.io/badge/Email-0D4F3C?style=for-the-badge&logo=gmail&logoColor=A8D5C2)](mailto:Abdulazeez.hit@gmail.com)
 [![Chicago](https://img.shields.io/badge/📍_Chicago,_IL-0D4F3C?style=for-the-badge&logoColor=A8D5C2)](https://github.com/Abdulazeez1001)
 
 </div>
