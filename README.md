@@ -56,14 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulazeez1001&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a6bff&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true)](https://github.com/Abdulazeez1001)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazeez1001&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a6bff&title_color=58a6ff&text_color=c9d1d9&hide_border=false)](https://github.com/Abdulazeez1001)
-
----
-
 ## 🎓 Education
 
 | | |
