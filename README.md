@@ -64,8 +64,8 @@ I design and propose technology that integrates into real clinical workflows and
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| 🎓 MS Health Informatics *(in progress)* | DePaul University, Chicago | 2024–2026 |
-| 🦷 Bachelor of Dental Surgery (BDS) | Clinical training · Patient care · Administration | — |
+| 🎓 MS Health Informatics *(in progress)* | DePaul University, Chicago | Expected June 2026 |
+| 🦷 Bachelor of Dental Surgery (BDS) | Clinical training · Patient care · Administration | July 2023|
 
 ---
 
