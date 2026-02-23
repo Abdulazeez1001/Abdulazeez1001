@@ -1,72 +1,111 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a6bff,100:58a6ff&height=220&section=header&text=Abdul%20Azeez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Health%20Informatics%20%7C%20Digital%20Health%20%7C%20mHealth&descSize=18&descAlignY=55&descColor=ffffffcc)](https://github.com/Abdulazeez1001)
+[![Header](https://capsule-render.vercel.app/api?type=soft&color=0:0d4f3c,100:1a7a5e&height=200&section=header&text=Abdul%20Azeez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Health%20Informatics%20%E2%80%A2%20mHealth%20%E2%80%A2%20AI%20in%20Healthcare&descSize=16&descAlignY=62&descColor=ffffffbb)](https://github.com/Abdulazeez1001)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Building+at+the+intersection+of+AI+%26+Healthcare.;MS+Health+Informatics+%40+DePaul+University.;Android+Dev+%7C+ML+%7C+Public+Health+Informatics.)](https://git.io/typing-svg)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazeez3)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aazeez9698@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-showcase--aazeez9698.replit.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=4000&pause=1000&color=1a7a5e&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=MS+Health+Informatics+%40+DePaul+University;Bridging+clinical+experience+with+machine+learning;Building+tools+that+put+patients+first)](https://git.io/typing-svg)
 
----
+<br/>
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abdulazeez3)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:aazeez9698@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=googlechrome&logoColor=1a7a5e)](https://portfolio-showcase--aazeez9698.replit.app)
+&nbsp;
+![Chicago](https://img.shields.io/badge/📍_Chicago,_IL-white?style=flat-square)
 
-- 🎓 **MS Health Informatics** @ DePaul University, Chicago
-- 🏥 Background in **General Dentistry** + Clinical Administration
-- 🤖 Passionate about **AI in healthcare**, mHealth, and predictive analytics and business development 
-- 💡 Philosophy: *"Technology should make healthcare more human, not less."*
-
----
-
-## 🛠 Tech Stack
-
-**Mobile & App Development**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Data Science & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-
-**Health Informatics**
-
-![HIPAA](https://img.shields.io/badge/HIPAA-00A98F?style=for-the-badge)
-![mHealth](https://img.shields.io/badge/mHealth-0078D4?style=for-the-badge)
-![Clinical Informatics](https://img.shields.io/badge/Clinical_Informatics-007844?style=for-the-badge)
-![Public Health](https://img.shields.io/badge/Public_Health-6C757D?style=for-the-badge)
-
-**Web & Deployment**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 👋 Who I Am
 
-| | |
-|---|---|
-| **🫁 PulmoGuard** <br> *COPD Exacerbation Prediction* <br><br> Android mHealth app that predicts COPD exacerbations 3–7 days in advance using Bluetooth spirometry, ML risk clustering, and a custom FEV₁ gauge built entirely in Jetpack Compose Canvas. <br><br> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![ML](https://img.shields.io/badge/K--Means-FF6F00?style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) <br><br> **🏥 Clinical Impact: Targets $10K–15K/hospitalization prevention** | **🧠 ADHD Risk Detection** <br> *Interpretable ML for Behavioral Health* <br><br> Built a Decision Tree classifier on 6,500-row behavioral dataset achieving 91% accuracy across 4 ADHD profiles. Identified and resolved data leakage from Q-series variables. Proposed school-based screening framework aligned with CDC HI-5 initiative. <br><br> ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Decision Tree](https://img.shields.io/badge/Decision_Tree-34A853?style=flat-square) ![K-Means](https://img.shields.io/badge/K--Means-FF6F00?style=flat-square) <br><br> **📊 Model Accuracy: 91% across 4 behavioral classes** |
-| **💊 Opioid Crisis Analysis** <br> *Public Health & Geospatial ML* <br><br> Analyzed opioid mortality across U.S. counties using CDC & SAMHSA data. Random Forest achieved R²=0.98. Built choropleth maps identifying high-risk states and applied ARIMA(2,1,2) to forecast 8-year mortality trends. <br><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square) ![ARIMA](https://img.shields.io/badge/ARIMA-FF6B6B?style=flat-square) <br><br> **🗺️ Geospatial hotspot analysis across 50 states** | **🦷 ChairSide AI** <br> *DePaul Hackathon 2025* <br><br> AI-powered clinical documentation platform built at DePaul Hackathon 2025. Voice-to-text transcription + AI note generation for dental professionals. Deployed live on Vercel with full database integration. <br><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) <br><br> **🚀 Deployed to production · Live web app** |
+I'm a health informatics graduate student with a clinical background in dentistry — which means I think about technology from both the patient's chair and the data pipeline. My work sits at the crossroads of **machine learning**, **mobile health**, and **public health informatics**.
 
----
-
-## 🎓 Education
-
-| | |
-|---|---|
-| **Master of Science — Health Informatics** <br> DePaul University · Chicago, IL · 2024–2026 <br> Focus: mHealth · Machine Learning · Public Health Informatics | **Bachelor of Dental Surgery (BDS)** <br> Clinical background in patient care, diagnostics, and healthcare administration |
+> *"I don't just build models. I build tools that could end up in a clinician's hands."*
 
 ---
 
-## 🤝 Let's Connect
+### 🧰 What I Work With
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulazeez3)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aazeez9698@gmail.com)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a6bff,100:58a6ff&height=120&section=footer&v=2)](https://github.com/Abdulazeez1001)
+**📱 Mobile & App**
+- Kotlin · Jetpack Compose
+- Android SDK
+- NavController · Canvas API
+
+</td>
+<td valign="top" width="33%">
+
+**🤖 Data & ML**
+- Python · R
+- Decision Trees · K-Means
+- Random Forest · ARIMA
+- Geospatial Analysis
+
+</td>
+<td valign="top" width="33%">
+
+**🏥 Health Tech**
+- mHealth Systems
+- HIPAA / PHI
+- Clinical Informatics
+- Public Health (CDC/SAMHSA)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🗂 Projects
+
+**🫁 PulmoGuard — COPD Exacerbation Prediction App**
+> Android mHealth app predicting COPD exacerbations 3–7 days in advance. Built a custom FEV₁ gauge from scratch using Jetpack Compose Canvas, integrated K-Means risk clustering on-device, and designed a Care Chat + Health Report system for patient-provider communication.
+> `Kotlin` `Jetpack Compose` `K-Means` `Android`
+
+---
+
+**🧠 Early ADHD Risk Detection**
+> 91% accurate Decision Tree classifier across 4 ADHD behavioral profiles, built on 6,500-row dataset. Caught and resolved data leakage from Q-series questionnaire variables. Proposed school-based screening framework aligned with CDC HI-5.
+> `R` `Decision Tree` `K-Means Clustering` `Behavioral Analytics`
+
+---
+
+**💊 Opioid Crisis — Data-Driven Public Health Analysis**
+> Analyzed opioid mortality across U.S. counties using CDC & SAMHSA data. Random Forest achieved R²=0.98. Built state-level choropleth maps and ARIMA(2,1,2) forecasting projecting 8-year mortality trends.
+> `Python` `Random Forest` `ARIMA` `Geospatial Analysis`
+
+---
+
+**🦷 ChairSide AI — DePaul Hackathon 2025**
+> AI-powered clinical documentation platform for dental professionals. Voice-to-text transcription + AI-generated SOAP notes. Deployed live on Vercel with database integration.
+> `Python` `JavaScript` `HTML/CSS` `Vercel`
+
+---
+
+### 📈 Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulazeez1001&show_icons=true&theme=default&bg_color=ffffff&border_color=1a7a5e&icon_color=1a7a5e&title_color=0d4f3c&text_color=333333&hide_border=false&count_private=true)](https://github.com/Abdulazeez1001)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulazeez1001&layout=compact&theme=default&bg_color=ffffff&border_color=1a7a5e&title_color=0d4f3c&text_color=333333&hide_border=false)](https://github.com/Abdulazeez1001)
+
+</div>
+
+---
+
+### 🎓 Background
+
+| Degree | Institution |
+|--------|-------------|
+| MS Health Informatics *(in progress)* | DePaul University, Chicago · 2024–2026 |
+| Bachelor of Dental Surgery (BDS) | Clinical training in diagnostics & patient care |
+
+---
+
+[![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:0d4f3c,100:1a7a5e&height=100&section=footer)](https://github.com/Abdulazeez1001)
