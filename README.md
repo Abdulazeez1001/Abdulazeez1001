@@ -13,16 +13,16 @@
 </div>
 
 ---
+
 ### 👋 Who I Am
 
 - MS Health Informatics @ DePaul University  
 - Clinical foundation in Dentistry
 - Translating clinical complexity into scalable AI systems
 - Building infrastructure that improves real-world care delivery
- 
+
 My perspective is shaped by working inside care delivery, where fragmented systems and delayed data directly affect outcomes.  
 I design and propose technology that integrates into real clinical workflows and translates analytics into action.
-
 
 ---
 
@@ -45,6 +45,8 @@ I design and propose technology that integrates into real clinical workflows and
 **🏥 Health Informatics**
 
 ![HIPAA](https://img.shields.io/badge/HIPAA-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
+![FHIR](https://img.shields.io/badge/FHIR-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
+![Neo4j](https://img.shields.io/badge/Neo4j-0D4F3C?style=for-the-badge&logo=neo4j&logoColor=A8D5C2)
 ![mHealth](https://img.shields.io/badge/mHealth-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
 ![Clinical Informatics](https://img.shields.io/badge/Clinical_Informatics-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
 ![Public Health](https://img.shields.io/badge/Public_Health-0D4F3C?style=for-the-badge&logoColor=A8D5C2)
@@ -55,8 +57,9 @@ I design and propose technology that integrates into real clinical workflows and
 
 | | |
 |---|---|
-| **🫁 PulmoGuard** — *COPD Exacerbation Prediction* <br><br> Android mHealth app predicting COPD exacerbations 3–7 days in advance. Custom FEV₁ gauge built in Jetpack Compose Canvas. On-device K-Means risk clustering across 4 severity levels. <br><br> ![Kotlin](https://img.shields.io/badge/Kotlin-0D4F3C?style=flat-square&logoColor=A8D5C2) ![K-Means](https://img.shields.io/badge/K--Means-1A7A5E?style=flat-square) ![Android](https://img.shields.io/badge/Android-0A3D2E?style=flat-square) <br> **🏥 Targets $10K–15K/hospitalization prevention** | **🧠 ADHD Risk Detection** — *Interpretable ML* <br><br> 91% accurate Decision Tree classifier across 4 ADHD profiles on a 6,500-row behavioral dataset. Caught and resolved data leakage. Proposed CDC HI-5 aligned school screening framework. <br><br> ![R](https://img.shields.io/badge/R-0D4F3C?style=flat-square) ![Decision Tree](https://img.shields.io/badge/Decision_Tree-1A7A5E?style=flat-square) ![K-Means](https://img.shields.io/badge/K--Means-0A3D2E?style=flat-square) <br> **📊 91% accuracy · 4 behavioral classes** |
-| **💊 Opioid Crisis Analysis** — *Public Health ML* <br><br> ML analysis of opioid mortality across U.S. counties. Random Forest R²=0.98. Choropleth maps of high-risk states + ARIMA(2,1,2) forecasting 8-year mortality trends. <br><br> ![Python](https://img.shields.io/badge/Python-0D4F3C?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random_Forest-1A7A5E?style=flat-square) ![ARIMA](https://img.shields.io/badge/ARIMA-0A3D2E?style=flat-square) <br> **🗺️ Geospatial hotspot analysis · 50 states** | **🦷 ChairSide AI** — *DePaul Hackathon 2025* <br><br> AI-powered clinical documentation for dental professionals. Voice-to-text + AI-generated SOAP notes. Deployed live on Vercel with full database integration. <br><br> ![Python](https://img.shields.io/badge/Python-0D4F3C?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-1A7A5E?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-0A3D2E?style=flat-square) <br> **🚀 Deployed to production · Live web app** |
+| **⬡ MedGraph** — *HackWithChicago 3.0 · Top 5 Finalist* <br><br> Built at **Microsoft Chicago** — graph-powered interoperability layer connecting patient records across institutions into one intelligent graph. Cross-institution identity resolution via SAME_AS edges. Natural language AI interface so clinicians ask in plain English — Neo4j traverses the answer. Anomaly detection engine flags vitals trending wrong, allergy conflicts, and duplicate medications across hospitals. <br><br> ![Neo4j](https://img.shields.io/badge/Neo4j-0D4F3C?style=flat-square&logoColor=A8D5C2) ![Python](https://img.shields.io/badge/Python-1A7A5E?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-0A3D2E?style=flat-square) <br> **🏢 Microsoft Chicago · 🏥 Targets 1.3M preventable ER visits · $8B duplicate testing problem** | **🫁 PulmoGuard** — *COPD Exacerbation Prediction* <br><br> Android mHealth app predicting COPD exacerbations 3–7 days in advance. Custom FEV₁ gauge built in Jetpack Compose Canvas. On-device K-Means risk clustering across 4 severity levels. <br><br> ![Kotlin](https://img.shields.io/badge/Kotlin-0D4F3C?style=flat-square&logoColor=A8D5C2) ![K-Means](https://img.shields.io/badge/K--Means-1A7A5E?style=flat-square) ![Android](https://img.shields.io/badge/Android-0A3D2E?style=flat-square) <br> **🏥 Targets $10K–15K/hospitalization prevention** |
+| **🧠 ADHD Risk Detection** — *Interpretable ML* <br><br> 91% accurate Decision Tree classifier across 4 ADHD profiles on a 6,500-row behavioral dataset. Caught and resolved data leakage. Proposed CDC HI-5 aligned school screening framework. <br><br> ![R](https://img.shields.io/badge/R-0D4F3C?style=flat-square) ![Decision Tree](https://img.shields.io/badge/Decision_Tree-1A7A5E?style=flat-square) ![K-Means](https://img.shields.io/badge/K--Means-0A3D2E?style=flat-square) <br> **📊 91% accuracy · 4 behavioral classes** | **💊 Opioid Crisis Analysis** — *Public Health ML* <br><br> ML analysis of opioid mortality across U.S. counties. Random Forest R²=0.98. Choropleth maps of high-risk states + ARIMA(2,1,2) forecasting 8-year mortality trends. <br><br> ![Python](https://img.shields.io/badge/Python-0D4F3C?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random_Forest-1A7A5E?style=flat-square) ![ARIMA](https://img.shields.io/badge/ARIMA-0A3D2E?style=flat-square) <br> **🗺️ Geospatial hotspot analysis · 50 states** |
+| **🦷 ChairSide AI** — *DePaul Hackathon 2025* <br><br> AI-powered clinical documentation for dental professionals. Voice-to-text + AI-generated SOAP notes. Deployed live on Vercel with full database integration. <br><br> ![Python](https://img.shields.io/badge/Python-0D4F3C?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-1A7A5E?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-0A3D2E?style=flat-square) <br> **🚀 Deployed to production · Live web app** | |
 
 ---
 
@@ -65,7 +68,7 @@ I design and propose technology that integrates into real clinical workflows and
 | Degree | Institution | Year |
 |--------|-------------|------|
 | 🎓 MS Health Informatics *(in progress)* | DePaul University, Chicago | Expected June 2026 |
-| 🦷 Bachelor of Dental Surgery (BDS) | Clinical training · Patient care · Administration | July 2023|
+| 🦷 Bachelor of Dental Surgery (BDS) | Clinical training · Patient care · Administration | July 2023 |
 
 ---
 
